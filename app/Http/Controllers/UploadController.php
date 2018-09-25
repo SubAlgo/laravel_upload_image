@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+//เรียกใช้ library Input แล้วสร้าง alias ว่า Input
 use Illuminate\Support\Facades\Input as Input;
 
 
